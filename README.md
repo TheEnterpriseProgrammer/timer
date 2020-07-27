@@ -3,12 +3,12 @@ This project is to be used for determining the elapsed time of execution of a py
 This package can be used in conjunction with a logger to log elapsed time.
 
 > #### Table of Contents  
-> [1.Installation](#installation)  
-> [2.Initialization](#initialization)  
-> [3.Starting The Timer](#starting-the-timer)  
-> [4.Stopping The Timer](#stopping-the-timer)  
-> [5.Getting The Elapsed Time](#getting-the-elapsed-time)  
-> [6.Resetting the Timer](#resetting-the-timer)  
+> [1. Installation](#installation)  
+> [2. Initialization](#initialization)  
+> [3. Starting The Timer](#starting-the-timer)  
+> [4. Stopping The Timer](#stopping-the-timer)  
+> [5. Getting The Elapsed Time](#getting-the-elapsed-time)  
+> [6. Resetting the Timer](#resetting-the-timer)  
 
 ## Installation
 Installation instructions here
