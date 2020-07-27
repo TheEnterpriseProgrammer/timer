@@ -1,7 +1,7 @@
 # Imports
 import unittest
 from timer import Timer
-from timer import TimerError
+from timer_error import TimerError
 
 # Timer test class definition
 class TimerTest(unittest.TestCase):
